@@ -1,0 +1,20 @@
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\bin\Debug\net7.0-windows\Coffee Counter WPF.exe
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\bin\Debug\net7.0-windows\Coffee Counter WPF.deps.json
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\bin\Debug\net7.0-windows\Coffee Counter WPF.runtimeconfig.json
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\bin\Debug\net7.0-windows\Coffee Counter WPF.dll
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\bin\Debug\net7.0-windows\Coffee Counter WPF.pdb
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF_MarkupCompile.cache
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF_MarkupCompile.lref
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.g.resources
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.AssemblyInfoInputs.cache
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.AssemblyInfo.cs
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.csproj.CoreCompileInputs.cache
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.dll
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\refint\Coffee Counter WPF.dll
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.pdb
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\Coffee Counter WPF.genruntimeconfig.cache
+C:\Users\flászló\OneDrive\repos\Coffee Counter WPF\Coffee Counter WPF\obj\Debug\net7.0-windows\ref\Coffee Counter WPF.dll

@@ -1,0 +1,10 @@
+Típus;Fajta;Mennyiség;Ár
+Kapszula;Cortado;16;150
+Kapszula;Café au lait;16;150
+Kapszula;Espresso Intenso;30;160
+Kapszula;Nesquik forrócsoki;16;150
+Por;Starbucks Sós karamellás forrócsoki;16;180
+Por;Omnia Silk Kávé;250;130
+Plusz;Kávétejszín;16;30
+Plusz;Tejpor;500;30
+Plusz;Cukor;500;4
